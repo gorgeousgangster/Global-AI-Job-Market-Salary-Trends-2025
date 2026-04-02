@@ -1,4 +1,4 @@
-<img width="1898" height="1082" alt="Screenshot 2026-04-02 230719" src="https://github.com/user-attachments/assets/b118e46a-065d-4fea-a6e9-7ee6e8becef5" /><img width="1898" height="1082" alt="Screenshot 2026-04-02 230719" src="https://github.com/user-attachments/assets/b118e46a-065d-4fea-a6e9-7ee6e8becef5" /># Global AI Job Market and Salary Trend (Interactive Dashboard creation using Power BI)
+# Global AI Job Market and Salary Trend (Interactive Dashboard creation using Power BI)
 
 ## Project Objective
 This comprehensive dataset contains detailed information about AI and machine learning job positions, salaries, and market trends across different countries, experience levels, and company sizes. Perfect for data science enthusiasts, career researchers, and market analysts for practice purposes. To support this, I have designed and developed a dynamic and interactive AI Job Market and Salary Trend Dashboard using Power BI.
